@@ -2,7 +2,7 @@ from badge import oled,btn
 from time import sleep_ms
 
 def app_start():
-	banner = "Government\tTechnology\tAgency\tSingapore\nCyber\tSecurity\tGroup\t(CSG)\nTeoh Chun Ping\tVisionary\nNg Zi Kai\tEditor\n Edmund Ang \tWizard\nThank You\tFor Playing"
+	banner = "Government\tTechnology\tAgency\tSingapore\nCyber\tSecurity\tGroup\t(CSG)\nTeoh Chun Ping\tVisionary\nRagul Balaji\tWizard (C01N V1)\nHo Jie Feng\tV4P0R (C01N V1)\nAndre Ng\tTopkek (C01N V1)\n Edmund Ang \tWizard (C01N V2)\nThank You\tFor Playing"
 	for text in banner.split('\n'):
 		lines = text.split('\t')
 		lineh = 10
