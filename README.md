@@ -1,4 +1,7 @@
 # C01N
+
+In "uPy_C01N_OS-(OLD REPO).zip", contains C01N V1's wifi capable codes. 
+
 C01N project
 
 To get a basic flashing station make sure you have these dependencies
